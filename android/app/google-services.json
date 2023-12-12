@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473890754385",
+    "project_id": "gardenerhelperapp",
+    "storage_bucket": "gardenerhelperapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473890754385:android:6944e592c94289f72bcd70",
+        "android_client_info": {
+          "package_name": "com.gardenerhelper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCdPstTsrPkD_bShYkyODRsOhirhvr8YU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
