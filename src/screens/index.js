@@ -9,6 +9,9 @@ import Pemangkasan from './Pemangkasan';
 import Pemupukan from './Pemupukan';
 import AddGardenForm from './AddGardenForm';
 import EditGardenForm from './EditGardenForm';
+import SplashScreen from './SplashScreen';
+import Login from './Login';
+import Register from './Register';
 export {
   Home,
   PlantDetail,
@@ -21,4 +24,7 @@ export {
   Pemupukan,
   AddGardenForm,
   EditGardenForm,
+  SplashScreen,
+  Login,
+  Register,
 };

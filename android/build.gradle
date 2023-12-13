@@ -13,21 +13,14 @@ buildscript {
     repositories {
         google()
         mavenCentral()
-<<<<<<< HEAD
-=======
         // ADD THIS
         maven { url 'https://maven.google.com' }
         // ADD THIS
         maven { url "https://www.jitpack.io" }
->>>>>>> 31e214b ([Bab 9] Firebase)
     }
     dependencies {
         classpath("com.android.tools.build:gradle")
         classpath("com.facebook.react:react-native-gradle-plugin")
-<<<<<<< HEAD
-    }
-}
-=======
         classpath 'com.google.gms:google-services:4.4.0'
     }
     allprojects {
@@ -36,4 +29,3 @@ buildscript {
     }
 }
 }
->>>>>>> 31e214b ([Bab 9] Firebase)

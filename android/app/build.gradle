@@ -80,11 +80,8 @@ android {
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
         versionName "1.0"
-<<<<<<< HEAD
-=======
         vectorDrawables.useSupportLibrary = true
         targetSdkVersion 27
->>>>>>> 31e214b ([Bab 9] Firebase)
     }
     signingConfigs {
         debug {
@@ -126,9 +123,6 @@ dependencies {
 }
 
 apply from: file("../../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesAppBuildGradle(project)
-<<<<<<< HEAD
-=======
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle"
 apply plugin: 'com.google.gms.google-services'
 
->>>>>>> 31e214b ([Bab 9] Firebase)
